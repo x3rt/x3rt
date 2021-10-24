@@ -1,4 +1,11 @@
-### Hi there 👋
+## Steps to become a developer
+
+1. Choose a language (C#, JS, Rust, etc)
+2. Buy a good Headset/Microphone ($150+)
+3.  Fill up your bathtub with Water and Dishsoap
+4. Careful throw your microphone into the bathtub
+5. Leave it in there for a week
+6. Take out your new microphone with perfectly clear sound 
 
 <!--
 **x3rt/x3rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
