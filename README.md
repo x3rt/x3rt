@@ -18,7 +18,6 @@ I develop in C# & PHP for the most part
     <img src="https://discordapp.com/api/guilds/432332961057079297/widget.png?style=banner2">
   </a>
 </p>
-<br/>  
 
 ##         
 
@@ -43,6 +42,11 @@ I develop in C# & PHP for the most part
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
+  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x3rt&layout=compact&theme=dark">
+</div>
+
 </div>
 
 
@@ -50,6 +54,7 @@ I develop in C# & PHP for the most part
 
 ##         
 
+<br/>  
 <div align="center">
 <a href="https://github.com/x3rt" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -66,24 +71,18 @@ I develop in C# & PHP for the most part
 </div>  
 
 
-<br/>  
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=x3rt&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=x3rt&show_icons=true&count_private=true&hide_border=true&theme=dark&hide=stars" align="center" />
+</div>  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=x3rt&&style=flat-square" align="center" />
 </div>  
-
-
-<br/>  
 
 <div align="center">
   <a href="https://ko-fi.com/x3rtdev" target="_blank" style="display: inline-block;">
@@ -93,4 +92,11 @@ I develop in C# & PHP for the most part
 <br />
 
 ----
-<div align="center"><p style="font-size: 3px">Created with the help of <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></p></div>
+
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<div align="center">
+  <p style="font-size: 3px">Created with the help of <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></p>
+</div>
