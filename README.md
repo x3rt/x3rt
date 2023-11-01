@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/banners/131602100332396544/cb03e1aca059d611848e36c2900f8465.png?size=2048" align="center" style="height: 250px" />
+<img src="https://cdn.discordapp.com/banners/131602100332396544/6eed2bec9aaf85a331252029eee7bfdd.webp?size=1024" align="center" style="height: 250px" />
 </div>  
 
 ### <div align="center">Full-stack freelance developer 🚀</div>
