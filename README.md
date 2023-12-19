@@ -7,7 +7,7 @@
 <div align="center">
 
 💻 Currently working for
-Kurva <a href="https://discord.com/invite/kurva"><img src="https://discordapp.com/api/guilds/432332961057079297/widget.png?style=shield"></a>
+Kurva <a href="https://discord.com/invite/kurva"><img src="https://discordapp.com/api/guilds/1138654087118868552/widget.png?style=shield"></a>
 
 💵 Recently created a <a href="https://ko-fi.com/x3rtdev">ko-fi</a>
 
@@ -15,7 +15,7 @@ I develop in C# & PHP for the most part
 </div>  
 <p align="center">
   <a href="https://discord.com/invite/kurva">
-    <img src="https://discordapp.com/api/guilds/432332961057079297/widget.png?style=banner2">
+    <img src="https://discordapp.com/api/guilds/1138654087118868552/widget.png?style=banner2">
   </a>
 </p>
 
