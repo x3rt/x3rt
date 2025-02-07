@@ -62,7 +62,7 @@ I develop in C# & PHP for the most part
 <a href="https://stackoverflow.com/users/x3rt" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/x3rttv" target="_blank">
+<a href="https://twitter.com/x3rtdev" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/user/x3rtt" target="_blank">
@@ -92,11 +92,3 @@ I develop in C# & PHP for the most part
 <br />
 
 ----
-
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<div align="center">
-  <p style="font-size: 3px">Created with the help of <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></p>
-</div>
